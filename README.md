@@ -28,9 +28,6 @@ Run the application: streamlit run app.py.
 Data Sources:
 The movie dataset (movies_list.pkl and similarity.pkl) is used for generating recommendations.
 
-# Screenshots:
-[Include screenshots here if applicable]
-
 # Feedback and Contributions:
 Feedback and contributions are welcome! Feel free to open an issue or pull request.
 
