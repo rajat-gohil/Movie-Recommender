@@ -40,10 +40,6 @@ The movie dataset is sourced from Kaggle
 
 IMDbPY library is used for fetching movie posters.
 
-# License:
-
-This project is licensed under the [license name]. See the LICENSE file for details.
-
 # Disclaimer:
 
 This application is for educational and entertainment purposes only. All movie recommendations are based on similarity and may not reflect personal preferences.
