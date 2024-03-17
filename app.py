@@ -1,6 +1,5 @@
 import streamlit as st
 import pickle
-!pip install IMDbPY
 from imdb import IMDb
 
 movies = pickle.load(open('movies_list.pkl', 'rb'))
